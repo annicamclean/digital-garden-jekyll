@@ -1,3 +1,7 @@
+---
+title: Java Cheat Sheet
+---
+
 Hi there. This is a java cheat sheet that will show you the basics of the programming language Java and aid you in creating programs with Java. Enjoy reading.
 
   
