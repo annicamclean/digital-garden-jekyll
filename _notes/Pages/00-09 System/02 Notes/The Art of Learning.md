@@ -9,7 +9,7 @@ title: The Art of Learning
 **RELEASE DATE:** 2007
 
 ## Notes
-*SUMMARY:* The Art of Learning goes over the life of Josh Waitzkin as a high performer in different activities and how to get to her level. 
+*SUMMARY:* The Art of Learning goes over the life of Josh Waitzkin as a high performer in different activities and how to get to his level. 
 
 ### Chapter Overview
 - Two Approaches to Learning: The Growth Mindset vs the Fixed Mindset

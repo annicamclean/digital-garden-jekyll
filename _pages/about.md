@@ -25,4 +25,5 @@ git push origin main
 
 But other than that everything is the same and pretty easy to follow.
 ## My Links
-**[GITHUB](https://annicamclean.github.io/)**
+**[WEBSITE](https://annicamclean.github.io/)**
+**[GITHUB](https://github.com/annicamclean?tab=repositories)**
